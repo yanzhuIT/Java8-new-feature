@@ -5,3 +5,4 @@
 - parallel() and sequential()
 - Optional
 - LocalDateTime...
+- what is new in Java 9
